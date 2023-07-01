@@ -47,6 +47,6 @@ How to change the database?
 >   "DB_SSL_MODE": "require"
 > }
 > ```
-
+## 方法:可以先下载库，之后改名只要不是alist就可以，之后安装，命令unzip 文件名，注意之后修改解压文件名称，把main拷贝出来覆盖https://blog.zhuyongfu.cn/index.php/archives/12/
 ## Password
 The initial password is randomly generated, and you can get it by checking the console logs.
